@@ -3,5 +3,7 @@
 This project is a frontend React app that simulates an Aadhaar verification system.
 
 ✅ Live Site
+👉   https://tech-triplet-project.vercel.app/   #*app link*
 
-👉   https://tech-triplet-project.vercel.app/
+🧾 Download 
+👉                                                                 #*google drive folder link* 
